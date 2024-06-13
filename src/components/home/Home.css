@@ -1,0 +1,26 @@
+.eduprime-container {
+    background-image: url('https://example.com/eduprime-background.jpg'); /* Replace with your background image URL */
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.6);
+}
+
+.content {
+    background-color: rgba(0, 0, 0, 0.5);
+    padding: 20px;
+    border-radius: 10px;
+}
+
+.title {
+    font-size: 3em;
+    margin-bottom: 20px;
+}
+
+.description {
+    font-size: 1.2em;
+}
